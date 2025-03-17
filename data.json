@@ -1,0 +1,10 @@
+{
+    "userid": "your_user_id",
+    "apikey": "your_api_key",
+    "walletaddress": "your_wallet_address",
+    "taskIds": ["3", "4", "5", "7", "8", "9", "10"],
+    "cookies": "your_cookies",
+    "xsrfToken": "your_xsrf_token",
+    "delayBetweenTasks": 2000,  
+    "intervalHours": 24
+}
